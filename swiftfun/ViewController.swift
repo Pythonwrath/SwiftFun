@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    var buttonCount=1
+    var buttonCount=0
     @IBOutlet var myLabel: UILabel!
     
     @IBAction func button(_ sender: Any) {
