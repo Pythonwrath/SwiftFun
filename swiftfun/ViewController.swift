@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  swiftfun
 //
-//  Created by Shanmuka Sadhu on 6/30/18.
-//  Copyright © 2018 Shanmuka Sadhu. All rights reserved.
+//  Created by  on 6/30/18.
+//  Copyright © 2018  All rights reserved.
 //
 
 import UIKit
